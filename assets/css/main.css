@@ -1,5 +1,5 @@
 body, h1, h2, h3, h4, h5, html {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 .btn, .btn-isotop, body, html {
     -moz-osx-font-smoothing: grayscale;
@@ -512,7 +512,7 @@ p {
     color: #000;
 }
 }.bg-index {
-    background: url(../images/backgrounds/bg-header_home.jpg) center center no-repeat;
+    background: url(../images/work/main.png) center center no-repeat;
 }
 .bg-hf {
     background: url(../images/backgrounds/bg-header_heart.jpg) center center no-repeat;
@@ -2627,7 +2627,7 @@ p {
     color: #000;
 }
 }.bg-index {
-    background: url(../images/backgrounds/bg-header_home.jpg) center center no-repeat;
+    background: url(../images/work/main.png) center center no-repeat;
 }
 .bg-hf {
     background: url(../images/backgrounds/bg-header_heart.jpg) center center no-repeat;
