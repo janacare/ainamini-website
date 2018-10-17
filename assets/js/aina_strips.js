@@ -51,7 +51,7 @@
         }
       },
       "button": {
-        "background-color": "#6eb427",
+        "background-color": "#ff5a5f",
         "font-family": "Arial, sans-serif",
         "font-size": "14px",
         "padding-top": "15px",
@@ -59,7 +59,7 @@
         "padding-left": "20px",
         "padding-right": "20px",
         ":hover": {
-          "background-color": "#63a223"
+          "background-color": "#ff5a5f"
         },
         ":focus": {
           "background-color": "#63a223"
