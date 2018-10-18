@@ -404,7 +404,7 @@ p {
     transition: all .4s ease;
 }
 .main-navigation .navbar-brand .logo {
-    height: 50px;
+    height:100px;
     content: url(../images/logo/ainalogo.png);
 }
 @media only screen and (max-width:992px) {
@@ -2525,7 +2525,7 @@ p {
     transition: all .4s ease;
 }
 .main-navigation .navbar-brand .logo {
-    height: 50px;
+    height: 80px;
     content: url(../images/logo/ainalogo.png);
 }
 @media only screen and (max-width:992px) {
