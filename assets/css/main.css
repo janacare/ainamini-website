@@ -233,6 +233,31 @@ a:focus {
     font-family: 'Avenir', sans-serif;
 
 }
+.work1{
+    margin-left: 30px;
+    margin-top: 20px;
+    color: #6C6A6A;
+    font-size: 28px;
+    font-weight: 10;
+    height: 35px;
+    width: 192px;
+}
+.work2{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 186px;
+    height: 35px;
+    color: #6C6A6A;
+    font-size: 28px;
+}
+.work3{
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 179px;
+    height: 35px;
+    color: #6C6A6A;
+    font-size: 28px;
+}
 .navbar-toggle {
     border: 0;
 }

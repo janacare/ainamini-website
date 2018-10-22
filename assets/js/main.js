@@ -57,6 +57,13 @@ $(".features").click(function(e) {
 		scrollTop: $("#why-choose-us").offset().top-68
 	}, 700);
 });
+
+$(".buy-now").click(function(e) {
+	e.preventDefault();
+	$('html, body').animate({
+		scrollTop: $("#shopainamini").offset().top-68
+	}, 700);
+});
 /*------------------------------------------
  Gridjs
  ------------------------------------------*/
